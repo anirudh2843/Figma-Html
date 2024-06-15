@@ -1,2 +1,2 @@
-# Figma-Html
-Complete conversion of Figma Design into HTML CSS JS website
+# Basic HTML Page
+Complete HTML CSS JS website
